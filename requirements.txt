@@ -1,0 +1,4 @@
+pygame
+graphviz
+fpdf2
+Pillow
